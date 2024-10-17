@@ -1,0 +1,16 @@
+# Ignore Unity auto-generated folders and files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Pp]]roject[Ss]]ettings/
+
+# Ignore PackageCache and Artifacts
+[Ll]ibrary/PackageCache/
+[Ll]ibrary/ArtifactDB
+
+# Ignore crash reports and auto-generated files
+[Cc]rash[oO]ut/
